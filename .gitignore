@@ -1,0 +1,30 @@
+# Archivos sensibles
+.env
+firestore.json
+
+# Carpetas y archivos generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorno virtual de Python
+env/
+venv/
+
+# Node.js (en caso de que uses paquetes de Node)
+node_modules/
+
+# Archivos de configuración del editor de texto
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+*.log
+
+# Otros
+*.bak
+*.swp
